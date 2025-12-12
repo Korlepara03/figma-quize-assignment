@@ -1,0 +1,28 @@
+figma-quiz-assignment/
+│
+├── README.md
+│
+├── index.html
+│
+├── package.json
+├── tsconfig.json
+├── tsconfig.node.json
+├── vite.config.ts
+│
+├── postcss.config.cjs
+├── tailwind.config.cjs
+│
+├── public/
+│   └── favicon.svg
+│
+└── src/
+    ├── main.tsx
+    ├── App.tsx
+    ├── index.css
+    │
+    ├── Quiz.tsx
+    ├── Result.tsx
+    │
+    └── components/
+        ├── QuestionCard.tsx
+        └── ProgressBar.tsx
