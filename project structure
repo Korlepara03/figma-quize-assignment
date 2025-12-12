@@ -1,0 +1,7 @@
+src/
+  App.tsx
+  Quiz.tsx
+  Result.tsx
+  components/
+    QuestionCard.tsx
+    ProgressBar.tsx
